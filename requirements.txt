@@ -1,0 +1,19 @@
+pandas==2.3.0
+numpy==2.3.1
+
+requests==2.32.4
+
+pyarrow==21.0.0
+fastparquet==2024.11.0
+
+papermill==2.6.0
+jupyter==1.1.1
+ipykernel==6.30.1
+
+sqlalchemy==2.0.41
+
+python-dotenv==1.1.1
+
+matplotlib==3.10.5
+# Optional for real Azure SQL connection:
+# pyodbc==5.2.0

@@ -1,0 +1,8 @@
+# Azure SQL Database connection example
+# This file is only a template for further implementation.
+
+AZURE_SQL_SERVER=your-server.database.windows.net
+AZURE_SQL_DATABASE=database
+AZURE_SQL_USERNAME=username
+AZURE_SQL_PASSWORD=password
+AZURE_SQL_DRIVER=ODBC Driver 18 for SQL Server
