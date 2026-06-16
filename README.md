@@ -90,6 +90,49 @@ Main technologies:
 
 ---
 
+## Installation
+
+### Prerequisites
+
+* Python 3.13+
+* Git
+* Jupyter Notebook
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/mirunastroescu47-beep/bosch-automotive-data-pipeline.git
+cd bosch-automotive-data-pipeline
+```
+
+### Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### Activate the Virtual Environment
+
+Windows Command Prompt:
+
+```bash
+venv\Scripts\activate
+```
+
+Git Bash:
+
+```bash
+source venv/Scripts/activate
+```
+
+### Install Dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+---
+
 ## Running the Pipeline
 
 Activate the virtual environment and run:
