@@ -31,7 +31,7 @@ def run_notebook(notebook_name):
     pm.execute_notebook(
         input_path=str(input_path),
         output_path=str(output_path),
-        kernel_name="proiect_bosch"
+        kernel_name="python3"
     )
 
     print(f"Finished notebook: {notebook_name}")
